@@ -8,7 +8,7 @@ Sou estudante do colegio Linda Salamuni Bacila e pretendo cursar direito ou pisi
 - CSS
 - JavaScript
 
-##Objetivos
+meu objetivo é virar um juiz renomado e comer e mudar a ,imha realidade
 	Não precisei mudarpara agradar ninguem, apenas evolui para não me perder de mim.
   MC KEVIN
   
