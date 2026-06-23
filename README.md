@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o kaike raillan almeida da silva
 
-<!--
-**kaikealmeidasilva-cmyk/kaikealmeidasilva-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante do colegio Linda Salamuni Bacila e pretendo cursar direito ou pisicologia infantil.
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Objetivos
+	Não precisei mudarpara agradar ninguem, apenas evolui para não me perder de mim.
+  MC KEVIN
+  
+## Contato 42999246804
